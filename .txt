@@ -1,0 +1,11 @@
+  const purchase = await bill.findOne();
+  // if (!purchase) {
+  //   const newPurchase = new bill({ totalPayments: sumPrice });
+  //   await newPurchase.save();
+
+  //   console.log(newPurchase);
+  // } else {
+  //   purchase.totalPayments += sumPrice;
+  //   await purchase.save();
+  //   console.log(purchase);
+  // }

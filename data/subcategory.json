@@ -1,0 +1,68 @@
+[
+        {
+            "name": "Asus laptop",
+            "category": "64bdee2f3c3c98dd1485b155",
+            "createdUser": "64b9433b151c77d09a7c0562",
+            "id": "64bdf003add640ed84142635"
+        },
+        {
+            "name": "HP",
+            "category": "64bdee2f3c3c98dd1485b155",
+            "createdUser": "64b9433b151c77d09a7c0562",
+            "id": "64bdf547cbaefd6497a84273"
+        },
+        {
+            "name": "Macbook",
+            "category": "64bdee2f3c3c98dd1485b155",
+            "createdUser": "64b9433b151c77d09a7c0562",
+            "id": "64bdf553cbaefd6497a84275"
+        },
+        {
+            "name": "iphone",
+            "category": "64bdee463c3c98dd1485b157",
+            "createdUser": "64b9433b151c77d09a7c0562",
+            "id": "64bdf576cbaefd6497a84279"
+        },
+        {
+            "name": "ipad",
+            "category": "64bdee463c3c98dd1485b157",
+            "createdUser": "64b9433b151c77d09a7c0562",
+            "id": "64bdf582cbaefd6497a8427b"
+        },
+        {
+            "name": "adapter",
+            "category": "64bdee463c3c98dd1485b157",
+            "createdUser": "64b9433b151c77d09a7c0562",
+            "id": "64bdf58bcbaefd6497a8427d"
+        },
+        {
+            "name": "cable",
+            "category": "64bdee463c3c98dd1485b157",
+            "createdUser": "64b9433b151c77d09a7c0562",
+            "id": "64bdf590cbaefd6497a8427f"
+        },
+        {
+            "name": "Хадаглах төхөөрөмж",
+            "category": "64bdee503c3c98dd1485b159",
+            "createdUser": "64b9433b151c77d09a7c0562",
+            "id": "64bdf5d1cbaefd6497a84283"
+        },
+        {
+            "name": "usb",
+            "category": "64bdee503c3c98dd1485b159",
+            "createdUser": "64b9433b151c77d09a7c0562",
+            "id": "64bdf5e0cbaefd6497a84285"
+        },
+        {
+            "name": "bluetooth headphone",
+            "category": "64bdee5f3c3c98dd1485b15b",
+            "createdUser": "64b9433b151c77d09a7c0562",
+            "id": "64bdf622cbaefd6497a8428d"
+        },
+        {
+            "name": "bluetooth speaker",
+            "category": "64bdee5f3c3c98dd1485b15b",
+            "createdUser": "64b9433b151c77d09a7c0562",
+            "id": "64bdf629cbaefd6497a8428f"
+        }
+    ]
